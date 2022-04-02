@@ -1,0 +1,22 @@
+{
+  "name": "keyword-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Idric974/keyword_Extractor.git"
+  },
+  "author": "Idric Evarne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Idric974/keyword_Extractor/issues"
+  },
+  "homepage": "https://github.com/Idric974/keyword_Extractor#readme",
+  "dependencies": {
+    "keyword-extractor": "^0.0.21"
+  }
+}
